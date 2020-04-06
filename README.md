@@ -6,7 +6,7 @@ In der aktuellen Situation erscheinen uns folgende Probleme als schwerwiegend:
  * Daten nicht oder unzureichend demographisch gesplittet (z.b. Alter >64 alle in einer Gruppe)
  * Daten nur teilweise geographisch gesplittet (z.b. Tests in welchen Bundesländern?)
 
-Als Lizenz wird CC-BY 4.0 vorgeschlagen.
+Als Lizenz wird CC-BY 4.0 vorgeschlagen, eine Veröffentlichung der zugehörigen Metadaten auf data.gv.at wäre wünschenswert.
 
 ## Struktur der Daten
 
