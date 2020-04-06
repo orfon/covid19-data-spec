@@ -28,7 +28,7 @@ Die CSV sind mit Testdaten befüllt. Die im Beispiel ausgefüllten Daten werden 
  * Die URLs der Dateien verändert sich nicht, sodass eine automatische Abholung möglich ist.
  * Nicht vorhandene Werte sind nicht auszufüllen (keine "0" eingeben sondern die Spalte leer lassen)
 
-## Mögliche Inhaltliche Erweiterungen
+## Mögliche inhaltliche Erweiterungen
 
 Zusätzlich zu den in den CSVs gelisteten Daten erscheinen mit Blick auf andere Staaten auch nachfolgende Kennzahlen wesentlich. Diese könnten als neue Spalten in Grunddaten aufgenommen werden:
 
@@ -41,7 +41,7 @@ Zusätzlich zu den in den CSVs gelisteten Daten erscheinen mit Blick auf andere 
 
 Bei den demographischen Daten eine weitere Aufsplittung der Altersgruppen nach Geschlecht: "<5 Jahre, weiblich", "<5 Jahre, männlich", etc.
 
-## Mögliche Strukturelle Erweiterungen
+## Mögliche strukturelle Erweiterungen
 
 Um die Verarbeitung auch für nicht Techniker zu vereinfachen und um Auswertungen schneller in Excel durchführen zu können, wäre nachfolgenden Erweiterungen wünschenswert.
 
