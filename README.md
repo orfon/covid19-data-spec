@@ -41,7 +41,7 @@ Zusätzlich zu den in den CSVs gelisteten Daten erscheinen mit Blick auf andere 
 
 Bei den demographischen Daten eine weitere Aufsplittung der Altersgruppen nach Geschlecht: "<5 Jahre, weiblich", "<5 Jahre, männlich", etc.
 
-## Mögliche Erweiterungen der Struktur
+## Mögliche Strukturelle Erweiterungen
 
 Um die Verarbeitung auch für nicht Techniker zu vereinfachen und um Auswertungen schneller in Excel durchführen zu können, wäre nachfolgenden Erweiterungen wünschenswert.
 
